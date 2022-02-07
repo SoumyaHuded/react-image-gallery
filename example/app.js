@@ -23,7 +23,7 @@ class App extends React.Component {
       slideDuration: 450,
       slideInterval: 2000,
       slideOnThumbnailOver: false,
-      thumbnailPosition: 'bottom',
+      thumbnailPosition: 'right',
       showVideo: {},
       useWindowKeyDown: true,
     };
